@@ -7,5 +7,5 @@ This project presents a numerical simulation of the **Z-scan** technique used to
 
 The goal of the project is to qualitatively reproduce experimental Z-scan results by modeling the evolution of the beam waist and the transmitted power through an aperture as a nonlinear medium is scanned along the optical axis.
 
-For more detail of the phyisical background take a look on the documentation **[z_scan_report.pdf](https://github.com/user-attachments/files/24452096/z_scan_report.pdf)**.
+For more details on the physical background, see the documentation **[z_scan_report.pdf](https://github.com/user-attachments/files/24452096/z_scan_report.pdf)**.
 
